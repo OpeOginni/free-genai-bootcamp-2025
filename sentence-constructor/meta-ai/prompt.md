@@ -21,4 +21,4 @@ Beginner, A2 Level
 - Focus on grammatical gender of nouns when needed
 
 ##  Student Input
-Bears are at the door, did you leave the garbage out?
+Did you see the raven this morning? They were looking at our garden.
